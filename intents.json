@@ -1,0 +1,107 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "How are you?",
+                "Hey",
+                "What's up?"
+            ],
+            "responses": [
+                "Hello!",
+                "Hi there!",
+                "How can I assist you?",
+                "Hey! How can I help?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "Goodbye",
+                "See you",
+                "Farewell"
+            ],
+            "responses": [
+                "Goodbye!",
+                "See you later!",
+                "Take care!",
+                "Have a great day!"
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thank you",
+                "Thanks",
+                "I appreciate it",
+                "Thanks a lot"
+            ],
+            "responses": [
+                "You're welcome!",
+                "Happy to help!",
+                "No problem!",
+                "Anytime!"
+            ]
+        },
+        {
+            "tag": "help",
+            "patterns": [
+                "Can you help me?",
+                "I need assistance",
+                "Help me",
+                "What can you do?"
+            ],
+            "responses": [
+                "Sure! I can assist you with various queries.",
+                "Of course! What do you need help with?",
+                "I'm here to help! How can I assist you today?"
+            ]
+        },
+        {
+            "tag": "weather",
+            "patterns": [
+                "What's the weather like?",
+                "Is it raining?",
+                "What's the temperature?",
+                "Do I need an umbrella?"
+            ],
+            "responses": [
+                "Sorry, I can't provide weather updates at the moment.",
+                "I'm not sure about the weather right now, but you can check your local forecast.",
+                "I currently don't have weather information. Try checking a weather app."
+            ]
+        },
+        {
+            "tag": "joke",
+            "patterns": [
+                "Tell me a joke",
+                "Make me laugh",
+                "I need a joke",
+                "Do you know any jokes?"
+            ],
+            "responses": [
+                "I am not saying I am Batman, I am just saying no one has ever seen me and Batman in the same room.",
+                "Why do not some couples go to the gym? Because some relationships do not work out.",
+                "I told my computer I needed a break, now it would not stop sending me Kit-Kats!"
+            ]
+        },
+        {
+            "tag": "motivation",
+            "patterns": [
+                "I need motivation",
+                "Give me some advice",
+                "Encourage me",
+                "I feel down"
+            ],
+            "responses": [
+                "Believe in yourself! You are capable of amazing things.",
+                "Do not stop until you are proud!",
+                "The best time to start is now!",
+                "Keep going, you are stronger than you think!"
+            ]
+        }
+    ]
+}
