@@ -1,5 +1,14 @@
-# Chatbot
-For Tech Saksham Aicte Internship
+
+#For Tech Saksham Aicte Internship
+
+I would like to express my deepest gratitude to my supervisor, Mr. Aditya Prashant Ardak,
+for being an exceptional mentor and the best adviser I could have ever asked for. His constant
+guidance, insightful advice, encouragement, and constructive criticism played a pivotal role in the
+successful completion of this project. The confidence he placed in me and his unwavering belief
+in my abilities were the primary sources of motivation throughout my internship journey.
+
+
+
 ![WhatsApp Image 2024-12-08 at 01 28 55_fbac2b75](https://github.com/user-attachments/assets/a96d0de2-6b2f-45a1-824f-ed1f27e21e86)
 
 ![chatboot](https://github.com/user-attachments/assets/28d4ccb9-bf67-4ef1-a89a-38e5c854457d)
